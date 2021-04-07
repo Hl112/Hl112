@@ -1,4 +1,9 @@
 ### Hi there 👋
+<h1 align='left'>✨ Hi there 👋, I'm Lam  👩‍💻 </h1>
+<h3 align='left'> ✳  I'm <b>Software Engineer</b> | <b> Student at 🇫 🇵 🇹 University</b></h3>
+<h3 align='left'> ✳  I'm <b>Software Engineer</b> | <b> Student at 🇫 🇵 🇹 University</b></h3>
+<h3 align='left'> ✳  I'm <b>Software Engineer</b> | <b> Student at 🇫 🇵 🇹 University</b></h3>
+<marquee behavior="alternate" width="10%">>></marquee>Ahihi<marquee behavior="alternate" width="10%"><< </marquee>
 
 <!--
 **Hl112/Hl112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
