@@ -1,5 +1,5 @@
 <h1 align='left'>✨ Hi there 👋, I'm Lam  👩‍💻 </h1>
-<img align="right" height="20" src="https://komarev.com/ghpvc/?username=hl112&label=Views%20Counter&style=flat-square"/>
+<img align="right" height="30" src="https://komarev.com/ghpvc/?username=hl112&label=Views%20Counter&style=flat-square"/>
 <img src="https://img.shields.io/github/watchers/hl112/hl112.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <h3 align='left'> ✳  I'm <b>Software Engineer</b> | <b> Student at 🇫 🇵 🇹 University</b></h3>
 <h3 align='left'> ✳  Accept reality and love what you have | ✅<i> Effort will bring success </i></h3>
