@@ -1,6 +1,5 @@
 <h1 align='left'>✨ Hi there 👋, I'm Lam  👩‍💻 </h1>
 <img src="https://img.shields.io/github/watchers/hl112/hl112.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=hl112.Hl112&label=Views Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge"/>
 <h3 align='left'> ✳  I'm <b>Software Engineer</b> | <b> Student at 🇫 🇵 🇹 University</b></h3>
 <h3 align='left'> ✳  Accept reality and love what you have | ✅<i> Effort will bring success </i></h3>
 <h3 align='left'> ✳  Love Yourself | Do everything </h3>
@@ -65,7 +64,7 @@
   <a href="https://steamcommunity.com/profiles/76561198445764844/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
-
+<img src="https://profile-counter.glitch.me/hl112/count.svg"/>
 
 <!--
 **Hl112/Hl112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
