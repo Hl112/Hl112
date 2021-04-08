@@ -65,7 +65,7 @@
   <a href="https://steamcommunity.com/profiles/76561198445764844/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
-<img src="https://profile-counter.glitch.me/hl112/count.svg"/>
+
 
 <!--
 **Hl112/Hl112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
